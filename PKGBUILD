@@ -2,8 +2,8 @@
 # Maintainer: BlackEagle <ike.devolder@gmail.com>>
 
 pkgname=kodi-addon-screensaver-rsxs
-_commit=579ec13
-pkgver=20170429.579ec13
+_commit=50aeef6
+pkgver=20170516.50aeef6
 pkgrel=1
 pkgdesc="RSXS screensaver add-ons for Kodi"
 arch=('i686' 'x86_64')
